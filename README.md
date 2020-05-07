@@ -9,6 +9,7 @@ This is a repository with the Jupyter notebooks that comprise the final project 
 
 **Implementation**: The control algorithm used was model predictive control (MPC). Using MPC, the heater was able to remain within two degrees of the specified setpoint throughout the control trajectory. The largest deviation from the setpoint occurred during the cooling of the device, which is result of the physical limitations of the device itself. 
 
+## Jupyter Notebooks
 
 **Protocol UI**: [insert notebook link] This notebook allows the user to specify the number of PCR thermal cycles and the time and temperature of the denaturation, annealing, and extension segments of the cycle. The protocols chosen by the user are saved in a csv file for later use. 
 
