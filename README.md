@@ -1,7 +1,7 @@
 # PCR Final Project
-**Group Members**: Martha Blatt and Mary Lynn Dekold
-
 This is a repository with the Jupyter notebooks that comprise the final project for CBE 30338.
+
+**Group Members**: Martha Blatt and Mary Lynn Dekold
 
 **Purpose**: The purpose of the final project was to design a control system for a PCR thermal cycler in Python and to test the control system using a Temperature Control Laboratory. 
 
